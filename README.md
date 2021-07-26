@@ -8,3 +8,7 @@
 ## dashboard界面
 
 ![](img/dashboard/dashborad1.png)
+
+## 默认账户密码
+
+    用户名  admin 密码 123456
